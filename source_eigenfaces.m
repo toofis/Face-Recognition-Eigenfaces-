@@ -1,7 +1,7 @@
 clear
 %% 
 %Initialisation
-N = 112; M = 92; k = 40;
+N = 112; M = 92; k = 20;
 
 %7 images for train, 3 images for test
 tr = 7; tst = 3; 
